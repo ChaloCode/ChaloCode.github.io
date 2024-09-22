@@ -325,3 +325,10 @@ defaults:
       share: true
       related: true
 
+_youtube:
+  videos:
+    - id:
+      title:
+      text:
+      provider:  
+

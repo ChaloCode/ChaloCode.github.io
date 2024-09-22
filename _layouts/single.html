@@ -5,7 +5,34 @@ layout: default
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
+<style type="text/css" media="screen">
+  .youtbe-custom {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+  }
+  .youtbe-custom > .responsive-video-container {
+      position: relative;
+      padding-bottom: 20%;
+      height: 0;
+      overflow: hidden;
+      max-width: 70%;
+      flex: 1;
+      text-align: left;
+      align-content: center;
+      margin: auto;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-video-container {
+      max-width: 90%;
+    }
+  }
+</style>
+
+  <div class="youtbe-custom">
+    {% include page__hero_video.html %}
+  </div>
 {% endif %}
 
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
@@ -49,7 +76,17 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+
+        
+        {% if page._youtube.videos %}
+          <div class="youtbe-videos-custom">
+            {% include page__hero_videos.html %}
+          </div>
+        {% endif %}
+
+
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+     
       </section>
 
       <footer class="page__meta">
@@ -77,4 +114,7 @@ layout: default
   {% elsif page.id and page.related %}
     {% include page__related.html posts=site.posts %}
   {% endif %}
+
+
+
 </div>

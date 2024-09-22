@@ -1,0 +1,5 @@
+{% for video in page._youtube.videos %}
+    <h2>{{video.title}}</h2>
+    <p>{{video.text}}</p>
+    {% include video id=video.id provider=video.provider danmaku=video.danmaku %}
+{% endfor %}
