@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "PODCAST"
+    url: /podcast/
+  - title: "VIDEOS"
+    url: /videos/
+  - title: "CURSOS"
+    url: /cursos/
+  - title: "ACERCA DE MÍ"
+    url: /acerca-de-mi/
+  - title: "RANDOM"
+    url: /random/

@@ -1,0 +1,96 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+<style type="text/css" media="screen">
+  .container {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%; 
+    padding: 20px;
+  }
+
+  .box {
+    flex: 1; 
+    text-align: left; 
+    align-content: center;
+  }
+
+  .box:first-child {
+    max-width: 22%;
+  }
+
+  .box:last-child {
+    margin-left: 2%;
+  }
+
+  .table-text-custom{
+    margin-top: 0;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+    .box:first-child {
+      max-width: 100%;
+    }
+    .box:last-child {
+      margin-left: 0;
+    }
+  }
+</style>
+
+<div class="{{ include.type | default: 'list' }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+    {% if include.type == "grid" and teaser %}
+    <div class="archive__item-teaser">
+        <img src="{{ teaser | relative_url }}" alt="">
+      </div>
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}  
+      </a>
+      {% endif %}
+    
+    </h2>
+    
+    {% endif %}
+
+    
+    {% if include.type == "grid" and teaser %}
+      {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% else %}
+      {% if post.excerpt %}
+      <div class="container">
+        <div class="box">
+            <img src="{{ teaser | relative_url }}" alt="">
+        </div>
+        <div class="box">
+          <h2 class="table-text-custom" itemprop="headline">
+            {% if post.link %}
+              <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            {% else %}
+              <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}  
+            </a>
+            {% endif %}
+          </h2>
+           <p class="archive__item-excerpt text-description-custom" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+           {% include page__meta.html type=include.type %}
+          </div>
+      </div>
+  
+    {% endif %}
+  </article>
+</div>
