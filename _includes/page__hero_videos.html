@@ -1,5 +1,6 @@
 {% for video in page._youtube.videos %}
     <h2>{{video.title}}</h2>
     <p>{{video.text}}</p>
+    {% if video.link.id and video.link.text %}<a href="{{video.link.id}}" target="_blank"><h3>{{video.link.text}}</h3></a>{% endif %}
     {% include video id=video.id provider=video.provider danmaku=video.danmaku %}
 {% endfor %}

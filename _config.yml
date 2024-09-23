@@ -330,5 +330,8 @@ _youtube:
     - id:
       title:
       text:
-      provider:  
+      provider: 
+      link:
+        id:
+        text: 
 
