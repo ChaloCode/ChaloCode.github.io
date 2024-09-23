@@ -10,3 +10,28 @@ main:
     url: /acerca-de-mi/
   - title: "RANDOM"
     url: /random/
+
+curses:
+  - title: "Cursos"
+    url: /cursos/
+    children:
+      - title: "Testing en .NET"
+        url: /cursos/#curso_1
+      - title: "Primeros pasos en .NET"
+        url: /cursos/#curso_2
+      - title: "Clean Code"
+        url: /cursos/#curso_3
+      - title: "DDD guiado con ChatGPT"
+        url: /cursos/#curso_4
+      - title: "IA - ChatGPT - Alexa - Programación"
+        url: /cursos/#curso_5
+      - title: "AWS y arquitectura CLOUD"
+        url: /cursos/#curso_6
+      - title: "Principios SOLID en .NET"
+        url: /cursos/#curso_7
+      - title: "Crear Formulario React de 0 a 100"
+        url: /cursos/#curso_8
+      - title: "Fundamentos JavaScript"
+        url: /cursos/#curso_9
+      - title: "Domain Driven Design - .NET"
+        url: /cursos/#curso_10

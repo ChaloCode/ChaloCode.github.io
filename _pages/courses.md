@@ -78,9 +78,10 @@ _youtube:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_Mw4mXkSFHv_h6V4J8F8c1L&si=NbJGzW2elsaRtXcB
             text: Ver curso completo
         provider: youtube
+sidebar:
+  nav: "curses"
 ---
 
-¡Bienvenidos a los **cursos de ChaloCode** GRATIS! Si estás buscando aprender a programar desde cero o mejorar tus habilidades, has llegado al lugar correcto. Aquí encontrarás una serie de tutoriales prácticos, desde los fundamentos de la programación hasta temas más avanzados en diferentes lenguajes y tecnologías.
+¡Bienvenidos a los cursos de ChaloCode **GRATIS**! Si estás buscando aprender a programar desde cero o mejorar tus habilidades, has llegado al lugar correcto. Aquí encontrarás una serie de tutoriales prácticos, desde los fundamentos de la programación hasta temas más avanzados en diferentes lenguajes y tecnologías.
 
 No importa si eres principiante o ya tienes experiencia, nuestros videos están diseñados para ser accesibles, claros y enfocados en proyectos reales. Te guiamos paso a paso para que puedas aplicar lo que aprendes de inmediato.
-
