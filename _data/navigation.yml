@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "PODCAST"
-    url: /podcast/
   - title: "VIDEOS"
     url: /videos/
   - title: "CURSOS"
     url: /cursos/
+  - title: "PODCAST"
+    url: /podcast/
   - title: "ACERCA DE MÍ"
     url: /acerca-de-mi/
   - title: "RANDOM"
@@ -42,7 +42,7 @@ podcast:
     children:
       - title: "Conociendo el rol de UX con Linda Varón"
         url: /podcast/#podcast_1
-      - title: "EMPREDER y MARKETING con Santiago Posada"
+      - title: "Empreder y marketing con Santiago Posada"
         url: /podcast/#podcast_2
       - title: "Como crear APP moviles y vivir de ellas con Yibson Leudo"
         url: /podcast/#podcast_3

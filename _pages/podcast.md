@@ -18,7 +18,7 @@ _youtube:
         sidebar_nav: podcast
 
     -   id: "1_sBz5kFbaU?si=tVAhEfyCwqAx5FqX"
-        title: "Podcast: EMPREDER y MARKETING con Santiago Posada"
+        title: "Podcast: Empreder y marketing con Santiago Posada"
         text: "Prepárense para una conversación inspiradora llena de conocimientos prácticos y perspectivas valiosas sobre el emprendimiento en el mundo del Marketing Digital. ¡No se lo pueden perder!"
         provider: youtube
         sidebar_nav: podcast
