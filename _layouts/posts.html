@@ -3,6 +3,11 @@ layout: archive
 ---
 
 {{ content }}
+{% if page._youtube.videos %}
+<div class="youtbe-videos-custom">
+  {% include page__hero_videos.html %}
+</div>
+{% endif %}
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
