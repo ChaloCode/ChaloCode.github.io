@@ -35,3 +35,16 @@ curses:
         url: /cursos/#curso_9
       - title: "Domain Driven Design - .NET"
         url: /cursos/#curso_10
+
+podcast:
+  - title: "Podcasts"
+    url: /podcast/
+    children:
+      - title: "Conociendo el rol de UX con Linda Varón"
+        url: /podcast/#podcast_1
+      - title: "EMPREDER y MARKETING con Santiago Posada"
+        url: /podcast/#podcast_2
+      - title: "Como crear APP moviles y vivir de ellas con Yibson Leudo"
+        url: /podcast/#podcast_3
+      - title: "Como sobrevivir a la inteligencia artificial"
+        url: /podcast/#podcast_4

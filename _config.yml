@@ -331,6 +331,7 @@ _youtube:
       title:
       text:
       provider: 
+      sidebar_nav: 
       link:
         id:
         text: 

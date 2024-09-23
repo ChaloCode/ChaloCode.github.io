@@ -14,6 +14,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_O2Qgu4U7xohULSVVnrOlVO&si=n-JiJxN2jHaGWR3d
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "BS_IF2BDiRU"
         title: "Mini curso: Primeros pasos en .NET" 
@@ -21,6 +22,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_Mkrw3uU7Vc66FmYI145biL&si=xToSj9GMUhGk2rNb
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "eyPKrxg7aJQ"
         title: "Aprendiendo: Clean Code" 
@@ -28,6 +30,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_MRkbfS2wc69N1G1_QAOIbW&si=V8kMGdyMcjE6J3LU
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "8OwTDfZe2Bo"
         title: "Aprendiendo: DDD guiado con ChatGPT" 
@@ -35,6 +38,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_P6sEvJUC2dCyq2dkwVJ1ey&si=oDPMDIczBI6x28Uq
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "v48RS6FuB_M"
         title: "Aprendiendo: IA - ChatGPT - Alexa - Programación" 
@@ -42,6 +46,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_PG0LzET9SSxMTcuW_M-xou&si=2f73cpuj7SDWwdIp
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "YPI70zH9CQ8"
         title: "Aprendiendo: AWS y arquitectura CLOUD" 
@@ -49,6 +54,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_MwbV7jABEL2pV3InG_nfAw&si=6BwUrTCMXQb07o4R
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "0kTWBBht5K4"
         title: "Mini curso: Principios SOLID en .NET" 
@@ -56,6 +62,7 @@ _youtube:
         link:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_MG6S24zPsc77usBukFmity&si=rXBYz9lmTBBKfimm
             text: Ver curso completo
+        sidebar_nav: curso
         provider: youtube
     -   id: "PhddxZmnv0Y"
         title: "Mini curso: Crear Formulario React de 0 a 100" 
@@ -64,6 +71,7 @@ _youtube:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_MyDzCJhBjcjW2yTrQSr8sL&si=w1cRVaM4TDWamkkl
             text: Ver curso completo
         provider: youtube
+        sidebar_nav: curso
     -   id: "-eNSx1R4s60"
         title: "Mini curso: Fundamentos JavaScript" 
         text: "¡Hola, mi gente linda! 🌟  en esta serie de videos, te llevaré paso a paso desde los conceptos básicos de JavaScript hasta los fundamentos del HTML. Aprenderás cómo usar JavaScript para manipular el DOM (Document Object Model), lo que te permitirá interactuar con las páginas web de manera dinámica 🚀✨"
@@ -71,6 +79,7 @@ _youtube:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_MQoeofagZxI3C41pdCNHL6&si=FVXGRQ6gawz8lBuX
             text: Ver curso completo
         provider: youtube
+        sidebar_nav: curso
     -   id: "Cm0OaI4tw4E?si=c4fQd0CPSc0vnvGk"
         title: "Mini curso: Domain Driven Design - .NET" 
         text: "¡Bienvenido al mini curso de Domain Driven Design (DDD) con .NET! En esta emocionante serie de videos, exploraremos los principios y las prácticas fundamentales de DDD y cómo aplicarlos en el contexto del desarrollo de software utilizando la última versión de .NET."
@@ -78,6 +87,7 @@ _youtube:
             id: https://youtube.com/playlist?list=PLjU2Ord0op_Mw4mXkSFHv_h6V4J8F8c1L&si=NbJGzW2elsaRtXcB
             text: Ver curso completo
         provider: youtube
+        sidebar_nav: curso
 sidebar:
   nav: "curses"
 ---
