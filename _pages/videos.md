@@ -6,4 +6,3 @@ catgories: videos
 author_profile: true
 ---
 
-Videos
