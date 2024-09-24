@@ -8,8 +8,8 @@ main:
     url: /podcast/
   - title: "ACERCA DE MÍ"
     url: /acerca-de-mi/
-  - title: "RANDOM"
-    url: /random/
+  - title: "ARTÍCULOS"
+    url: /articulos/
 
 curses:
   - title: "Cursos"
