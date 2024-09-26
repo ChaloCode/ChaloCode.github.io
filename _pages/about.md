@@ -12,7 +12,7 @@ _youtube:
         provider: youtube
 ---
 
-Soy Gonzalo J. Pérez, también conocido como ChaloCode. Soy ingeniero de sistemas con más de 10 años de experiencia en desarrollo de software. Me apasiona el aprendizaje continuo, así como desaprender lo necesario para adaptarme a nuevos retos. Disfruto compartiendo mis conocimientos y experiencias, convencido de que los grandes cambios se logran con pequeños esfuerzos constantes y se multiplican al impactar a más personas.
+Hola me llamo Gonzalo J. Pérez, también conocido como ChaloCode. Soy ingeniero de sistemas con más de 10 años de experiencia en desarrollo de software. Me apasiona el aprendizaje continuo, así como desaprender lo necesario para adaptarme a nuevos retos. Disfruto compartiendo mis conocimientos y experiencias, convencido de que los grandes cambios se logran con pequeños esfuerzos constantes y se multiplican al impactar a más personas.
 
 A lo largo de mi carrera en tecnología, he trabajado como arquitecto, líder técnico y programador. También he brindado consultoría a empresas, ayudándolas a estructurar sus proyectos tecnológicos en áreas como arquitectura, cloud y cultura organizacional.
 
