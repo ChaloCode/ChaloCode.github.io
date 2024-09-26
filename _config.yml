@@ -336,3 +336,7 @@ _youtube:
         id:
         text: 
 
+assets:
+  favicon: "/assets/images/site/favicon.ico"
+
+
