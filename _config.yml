@@ -132,7 +132,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/chalocode"
-    - label: "Twitter"
+    - label: "Twitter (X)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chalocode"
     - label: "Facebook"
@@ -145,7 +145,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@chalocode"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/chalocode"
+    - label: "Twitter (X)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chalocode"
     - label: "Facebook"
@@ -154,15 +160,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chalocode"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/chalocode"
 
 
 # Reading Files
