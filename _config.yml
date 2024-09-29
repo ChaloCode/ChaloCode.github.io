@@ -228,7 +228,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bogota # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -338,5 +338,3 @@ _youtube:
 
 assets:
   favicon: "/assets/images/site/favicon.ico"
-
-
