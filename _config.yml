@@ -92,8 +92,8 @@ baidu_site_verification  :
 twitter:
   username               : chalocode
 facebook:
-  username               : 
-  app_id                 : 
+  username               : chalocode
+  app_id                 : 100087643637747
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -137,7 +137,7 @@ author:
       url: "https://twitter.com/chalocode"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100087643637747"
+      url: "https://www.facebook.com/chalocode"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chalocode"
@@ -156,7 +156,7 @@ footer:
       url: "https://twitter.com/chalocode"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100087643637747"
+      url: "https://www.facebook.com/chalocode"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chalocode"
