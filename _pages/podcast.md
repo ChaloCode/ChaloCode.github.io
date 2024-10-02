@@ -36,10 +36,10 @@ _youtube:
         sidebar_nav: podcast
 ---
 
-Bienvenidos al **Podcast de ChaloCode**, donde invito a amigos del mundo de la tecnología que conocen la industria y tienen suficiente experiencia para que nos hablen de primera mano sobre lo que significa desempeñar su rol día a día.
+¡Bienvenidos al Podcast de ChaloCode! Aquí invito a amigos del mundo de la tecnología, profesionales con vasta experiencia en la industria, para que nos cuenten en primera persona cómo es su día a día.
 
-No solo hablamos con programadores; la industria tecnológica es mucho más amplia. En estos podcasts, escucharás las vivencias de diversos expertos, lo que te permitirá explorar nuevas rutas profesionales o incluso considerar un cambio de carrera.
+No solo hablamos con programadores; el sector tecnológico abarca mucho más. En cada episodio, escucharás las historias de diversos expertos, lo que te permitirá descubrir nuevas oportunidades profesionales o incluso replantearte tu carrera.
 
-La industria de IT está en pleno crecimiento, y sus oportunidades laborales son cada vez más atractivas, ofreciendo altos niveles de ingresos en menos tiempo y sin la necesidad de un título formal.
+La industria IT está en pleno auge, ofreciendo cada vez más oportunidades laborales atractivas, con altos ingresos en poco tiempo y, en muchos casos, sin la necesidad de un título universitario.
 
 [Podcast de ChaloCode](https://youtube.com/playlist?list=PLjU2Ord0op_NhrhRWPG08_wyKt1Q1SSKp&si=fZYq6s-ef5LzrmDl){:target="_blank"}
