@@ -338,3 +338,6 @@ _youtube:
 
 assets:
   favicon: "/assets/images/site/favicon.ico"
+
+atom_feed:
+  hide: true
