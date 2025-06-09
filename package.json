@@ -12,6 +12,9 @@
     "theme",
     "minimal"
   ],
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  },
   "author": "Michael Rose",
   "license": "MIT",
   "bugs": {
