@@ -6,6 +6,8 @@ main:
     url: /cursos/
   - title: "PODCAST"
     url: /podcast/
+  - title: "COMUNIDAD"
+    url: /comunidad/
   - title: "CONTACTO"
     url: /contacto/
   - title: "ARTÍCULOS"
