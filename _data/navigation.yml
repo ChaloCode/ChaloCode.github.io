@@ -6,14 +6,14 @@ main:
     url: /cursos/
   - title: "PODCAST"
     url: /podcast/
+  - title: "LIBRO"
+    url: /libro-de-testing-en-net/
+  - title: "ARTÍCULOS"
+    url: /articulos/
   - title: "COMUNIDAD"
     url: /comunidad/
   - title: "CONTACTO"
     url: /contacto/
-  - title: "ARTÍCULOS"
-    url: /articulos/
-  - title: "LIBRO"
-    url: /libro-de-testing-en-net/
 
 curses:
   - title: "Cursos"
