@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Acerca de mí
-permalink: /acerca-de-mi/
+permalink: /contacto/
 author_profile: true
 _youtube: 
   videos:

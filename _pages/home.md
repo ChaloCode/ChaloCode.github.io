@@ -1,7 +1,7 @@
 ---
 layout: categories
-title: Videos
-permalink: /videos/
+title: Inicio
+permalink: /inicio/
 author_profile: true
 ---
 

@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "VIDEOS"
-    url: /videos/
+  - title: "INICIO"
+    url: /inicio/
   - title: "CURSOS"
     url: /cursos/
   - title: "PODCAST"
     url: /podcast/
-  - title: "ACERCA DE MÍ"
-    url: /acerca-de-mi/
+  - title: "CONTACTO"
+    url: /contacto/
   - title: "ARTÍCULOS"
     url: /articulos/
   - title: "LIBRO"
