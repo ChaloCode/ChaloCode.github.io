@@ -34,6 +34,12 @@ _youtube:
         text: "Hoy vamos a hablar sobre el impacto de ChatGpt y la inteligencia artificial en nuestras vidas, así como las oportunidades que se abren para los programadores y el mundo en general."
         provider: youtube
         sidebar_nav: podcast
+
+    -   id: "qyo9UrVtJgI?si=le0_qOKIcBXVVZgd"
+        title: "Podcast: ¿Se puede cambiar de carrera después de los 30?"
+        text: "🎧 ¿Se puede cambiar de carrera después de los 30 y entrar al mundo del software? En este episodio especial de Chalo Code, conversamos con Gastón López, un físico que decidió reinventarse y hoy trabaja como programador backend en Mercado Libre. En esta charla hablamos de: Cómo fue el paso de la física y la investigación al desarrollo de software. Los miedos reales al cambiar de carrera y cómo enfrentarlos. La importancia de la disciplina, el pensamiento analítico y el aprendizaje continuo. Qué tan difícil es entrar a una empresa grande de tecnología. Qué habilidades realmente marcan la diferencia para crecer como programador. El rol de la inteligencia artificial en el trabajo diario de un desarrollador. Este episodio no es una entrevista de currículum, es una historia real de reinvención, pensada para quienes están estudiando programación, quieren cambiar de carrera o buscan inspiración para dar el siguiente paso."
+        provider: youtube
+        sidebar_nav: podcast
 ---
 
 ¡Bienvenidos al Podcast de ChaloCode! Aquí invito a amigos del mundo de la tecnología, profesionales con vasta experiencia en la industria, para que nos cuenten en primera persona cómo es su día a día.

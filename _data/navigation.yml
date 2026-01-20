@@ -52,6 +52,8 @@ podcast:
         url: /podcast/#podcast_3
       - title: "Como sobrevivir a la inteligencia artificial"
         url: /podcast/#podcast_4
+      - title: "¿Se puede cambiar de carrera después de los 30?"
+        url: /podcast/#podcast_5
 
 libro:
   - title: "Ejercicios"
