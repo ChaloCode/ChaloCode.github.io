@@ -10,6 +10,8 @@ main:
     url: /acerca-de-mi/
   - title: "ARTÍCULOS"
     url: /articulos/
+  - title: "LIBRO"
+    url: /libro-de-testing-en-net/
 
 curses:
   - title: "Cursos"
@@ -48,3 +50,28 @@ podcast:
         url: /podcast/#podcast_3
       - title: "Como sobrevivir a la inteligencia artificial"
         url: /podcast/#podcast_4
+
+libro:
+  - title: "Ejercicios"
+    url: /libro-de-testing-en-net/
+    children:
+      - title: "01: Pruebas Unitarias"
+        url: /libro-de-testing-en-net/ejercicios/01
+      - title: "02: Pruebas de Integración"
+        url: /libro-de-testing-en-net/ejercicios/02
+      - title: "03: Pruebas de Aceptación"
+        url: /libro-de-testing-en-net/ejercicios/03
+      - title: "04: Pirámide de Testing"
+        url: /libro-de-testing-en-net/ejercicios/04
+      - title: "05: Code Coverage"
+        url: /libro-de-testing-en-net/ejercicios/05
+      - title: "06: Mutation Testing"
+        url: /libro-de-testing-en-net/ejercicios/06
+      - title: "07: Contract Testing"
+        url: /libro-de-testing-en-net/ejercicios/07
+      - title: "08: TDD"
+        url: /libro-de-testing-en-net/ejercicios/08
+      - title: "09: BDD"
+        url: /libro-de-testing-en-net/ejercicios/09
+      - title: "10: IA aplicada a Testing"
+        url: /libro-de-testing-en-net/ejercicios/10
