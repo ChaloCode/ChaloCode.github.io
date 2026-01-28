@@ -21,6 +21,12 @@ En estas páginas encontrarás un recorrido práctico, desde los fundamentos has
 
 <a href="https://a.co/d/eY75l4q" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--large">Comprar en Amazon</a>
 
+*Opción recomendada para **Colombia** o LATAM*
+
+<a href="https://www.autoreseditores.com/libro/32702/gonzalo-j-perez/testing-en-net.html" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--large">Comprar en Colombia</a>
+
+
+
 ## Ejercicios del libro
 
 - [Capítulo 01: Pruebas Unitarias](/libro-de-testing-en-net/ejercicios/01)
